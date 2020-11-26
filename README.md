@@ -11,7 +11,7 @@ An app works in such case:
 2. After uploading, you get download button. If you press to download you download your uploaded file before
 3. At the bottom, you will see reset button, which allows you to upload a file again.
 
-The path of downloaded file is : /storage/emulated/0/files
+The path of downloaded file is : /storage/emulated/0/Android/data/com.example.aspose_pdf_2v/files
 
 
 # Packages:
